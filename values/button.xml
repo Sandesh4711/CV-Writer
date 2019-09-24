@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <array name="icons">
+            <item>@drawable/ic_edit_interface_symbol_of_pencil_outline</item>
+            <item>@drawable/ic_download</item>
+            <item>@drawable/ic_share_black_24dp</item>
+            <item>@drawable/ic_star_border_black_24dp</item>
+            <item>@drawable/ic_contact_us</item>
+        </array>
+        <array name="colors">
+            <item>@android:color/holo_blue_dark</item>
+            <item>@android:color/holo_green_light</item>
+            <item>@android:color/holo_red_light</item>
+            <item>@android:color/holo_orange_light</item>
+            <item>@android:color/holo_purple</item>
+        </array>
+    </resources>
